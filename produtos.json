@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "Id": 1,
+      "Nome": "Produto A",
+      "Codigo": "A001"
+    },
+    {
+      "Id": 2,
+      "Nome": "Produto B",
+      "Codigo": "B002"
+    },
+    {
+      "Id": 3,
+      "Nome": "Produto C",
+      "Codigo": "C003"
+    }
+  ]
+}
